@@ -1,10 +1,10 @@
 ---
 layout: layouts/post.njk
-title: About Me
+title: About
 templateClass: tmpl-post
 eleventyNavigation:
-  key: About Me
+  key: About
   order: 3
 ---
 
-I am a person that writes stuff.
+# Hi my name is Nynne, I'm a Copenhagen based software developer, currently fulltime playing with LEGO bricks. For enquiries, contact me via email. I have a newsletter. Find me on Github or Twitter.
